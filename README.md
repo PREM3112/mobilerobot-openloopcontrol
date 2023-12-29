@@ -96,7 +96,8 @@ if _name_ == '_main_':
 
 ![robo](./img/robomaster.png)
 
-![Alt text](<robo 1.png>)
+![robo 1](https://github.com/PREM3112/mobilerobot-openloopcontrol/assets/145449383/b3c86188-498f-4801-8b9d-dec53d35048d)
+
 
 
 <br/>
